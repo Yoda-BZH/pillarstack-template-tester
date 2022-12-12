@@ -1,0 +1,6 @@
+
+file:
+variables:
+  pillar: {}
+  __grains__: {}
+expected:
